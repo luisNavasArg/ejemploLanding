@@ -1,0 +1,27 @@
+.letra{
+    font-family: 'Ballet', cursive;
+    font-weight: bold;
+  }
+  .imgColor{
+    background-color: rgba(230, 230, 230, 0.795);
+  }
+  body{
+    background-image:url('../imagenes/WhatsApp Image 2021-01-27 at 11.23.36.jpeg');
+  }
+  .transp{
+      background-color:transparent;
+      padding: 5px;
+      
+  }
+  section{
+    background-color: rgba(209, 208, 208, 0.712);
+    padding: 1%;
+    box-shadow: 5px 4px 5px black;
+  }
+  .row{
+    display: flex;
+    justify-content: space-around;
+  }
+  .card{
+    box-shadow: 5px 4px 5px black;
+  }
